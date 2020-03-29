@@ -1,0 +1,32 @@
+1.Question 1
+The ultimate purpose of analytics is to communicate findings to stakeholders to formulate policy or strategy.
+
+True.
+
+
+
+2.Question 2
+What role of a data scientist is discussed in the reading?
+
+Using insights to build a narrative to communicate findings.
+
+
+
+3.Question 3
+The Untied States Economic Forecast is a publication by McKinsey University Press.
+
+False.
+
+
+
+4.Question 4
+The report discussed in the reading successfully did the job of using data and analytics to generate the likely economic scenarios.
+
+True.
+
+
+
+5.Question 5
+According to the reading, in order to produce a compelling narrative, initial planning and conceptualizing of the final deliverable is of extreme importance.
+
+True.

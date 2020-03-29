@@ -1,0 +1,24 @@
+1.Question 1
+Which of the following jobs was called by the Harvard Business Review the sexiest job of the 21st century?
+
+Data Science.
+
+2.Question 2
+According to the report by the McKinsey Global Institute, by 2018, it is projected that there will be a shortage of people with deep analytical skills in the United States. What is the size of this shortage?
+
+140,000 – 190,000 people
+
+3.Question 3 
+Walmart addressed its analytical needs by approaching Kaggle to host a competition for analyzing its proprietary data.
+
+True.
+
+4.Question 4
+What is the average base salary of a data scientist reported by the New York Times?
+
+$112,000
+
+5.Question 5
+According to professor Haider, the three important qualities to possess in order to succeed as a data scientist are curious, judgemental, and proficient in programming.
+
+False.
