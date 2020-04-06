@@ -1,0 +1,40 @@
+1.Question 1
+Apache Zeppelin lets you: (Multiple Choice)
+
+Document your code.
+
+Display your output.
+
+Show your visualizations within the Zeppelin notebook.
+
+Switch between multiple languages.
+
+
+
+2.Question 2
+Which IS NOT an interpreter supported by Zeppelin?
+
+Matlab
+
+
+
+3.Question 3
+Major benefits to using Zeppelin over Jupyter notebooks include: (Multiple Choice)
+
+Some visualizations are automatically generated in Zeppelin, thus minimizing code required
+
+You can use multiple languages in the same notebook in Zeppelin, but not in Jupyter
+
+
+
+4.Question 4
+True or False? You cannot customize the width of your cells in a Zeppelin notebook.
+
+False
+
+
+
+5.Question 5
+True or False? You can use multiple programming languages within the same Zeppelin notebook, and they can even operate on the same data.
+
+True
