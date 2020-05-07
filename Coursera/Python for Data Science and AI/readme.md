@@ -2,28 +2,28 @@ This introduction to Python will kickstart your learning of Python for data scie
 
 Upon its completion, you'll be able to write your own Python scripts and perform basic hands-on data analysis using our Jupyter-based lab environment. If you want to learn Python from scratch, this course is for you. This course will not teach you everything about Python, but it should give you the tools to work as a data scientist and enough knowledge to continue to expand your Python learning. In the final project, you will load data and learn a new Python Library on your own.
 
-### **Module 1 - Python Basics**
-- Your first program
-- Types
-- Expressions and Variables
-- String Operations
+Module 1 - Python Basics
 
-### **Module 2 - Python Data Structures**
-- Lists and Tuples
-- Sets
-- Dictionaries
+Your first program
+Types
+Expressions and Variables
+String Operations
+Module 2 - Python Data Structures
 
-### **Module 3 - Python Programming Fundamentals**
-- Conditions and Branching
-- Loops
-- Functions
-- Objects and Classes
+Lists and Tuples
+Sets
+Dictionaries
+Module 3 - Python Programming Fundamentals
 
-### **Module 4 - Working with Data in Python**
-- Reading files with open
-- Writing files with open
-- Loading data with Pandas
-- Working with and Saving data with Pandas
-- Numpy
+Conditions and Branching
+Loops
+Functions
+Objects and Classes
+Module 4 - Working with Data in Python
 
-### **Module 5 - Final Project**
+Reading files with open
+Writing files with open
+Loading data with Pandas
+Working with and Saving data with Pandas
+Numpy
+Module 5 - Final Project
