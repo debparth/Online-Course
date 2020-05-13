@@ -1,0 +1,28 @@
+“Email is such a powerful delivery tool because it’s a stream people already check,” says Ben Thompson, founder and author of the popular tech newsletter Stratechery.
+
+
+
+We know that email data can be used to: 
+1) combine various data sources, creating richer data sets, 
+2) analyze audience behavior over time to increase engagement, and 
+3) identify target audiences and test new products. Email performance data is the gateway to understanding a range of characteristics about your current readership and opportunities for growth. Yet, a far too common mistake is an over-reliance on open and click rates alone—these numbers are just the tip of the iceberg. 
+We must shift to effectively leveraging email data—data every publisher owns—for a deeper analysis of online audiences.
+
+This is further complicated by the nuances affecting deliverability and measurement specific to email and the challenges associated with the limitations of traditional email performance measures.
+
+“Open rate” often refers to “unique open rate,” although that is usually not specified. There is a temptation to report the total open rate in certain situations because it is larger, such as media articles, and also refer to it as “open rate.”
+“Click rate” sometimes but not always refers to click-through-rate or “unique click rate.”
+Deliverability: How successful are your emails at reaching the inboxes of your email list subscribers? Hitting send on an email without an error message in return does not guarantee successful deliverability.
+Measurability: How successful are you at tracking the performance of your emails?
+
+
+
+1. Analytical approach - In this step of DSM(Data Science Methodology) generally follows the two method first is predictive approach and second one is descriptive approach. here we followed the descriptive approach because we have to find the key word in the subject title base on which we can categorize.
+
+2. Data Requirement - In this step of the we find which data type is require and which source from we gate or collect the data. in this case we can get data from different individual and others company also.
+
+3. Data Collection - In this step we collect the data as mention the source for this topic. After the collection of the data from various source we merge them and removing the unwanted data i.e. we can write all the subject title of these E-mail in excel sheet.
+
+4. Data understanding and preparation - here we answer the question which is the base of this DSM by means of various plots and variable(key words of the subject title) and analyze the variation withe the key word as well as varying simultaneously more the one key word.
+
+5. Modeling and Evaluation - In modeling we remove the duplicate data and formatting the data for the evaluation. Evaluation step here we check the accuracy of the model as well as performance of the project. And also check that the project answer the question which is being asked in the beginning of the project.
