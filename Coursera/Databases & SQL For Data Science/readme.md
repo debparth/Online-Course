@@ -21,3 +21,6 @@
 - Enumerate different type of JOIN operations
 - Explain what is an INNER JOIN and practice hands-on
 - Distinguish between different types of OUTER JOINs and apply your understanding
+
+## **Week 4 - Final Assignment**
+- Final Assignment
